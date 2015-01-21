@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <link rel="stylesheet" href="idk.css">
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+      <title>Diocesan Boys' School| Photographic Team</title>
+     <script type="text/javascript">
+         (function(url){
+         if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+         var wfscr = document.createElement('script');
+         wfscr.type = 'text/javascript';
+         wfscr.async = true;
+         wfscr.src = url + '&r=' + Math.random();
+         (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+         })('//weareadaptable.com/wp-admin/admin-ajax.php?action=wordfence_logHuman&hid=09C5A25D97D87DE18C9266994B493E50'); 
+      </script>
+   </head>
+   <body class="home page page-id-7 page-template page-template-templates page-template-page-home page-template-templatespage-home-php">
+      <nav class="b-header " id="b-header_fixed" role="navigation">
+         <a class="b-header__logo b-header-logo icon-logo_w" id="logochange" href="./index.php"></a>
+         <div id="b-navigation_toggle" class="b-navigation__hamburger burger_w">
+            <span class="b-navigation__line"></span>
+            <span class="b-navigation__line"></span>
+         </div>
+         <ul id="b-navigation__mobMenu" class="b-navigation">
+            <li id="b-contact_711" class="b-navigation__item projects"><a href="http://weareadaptable.com/case-studies/" class="b-navigation__link" >About Us</a></li>
+            <li id="b-contact_32" class="b-navigation__item studio"><a href="http://weareadaptable.com/studio/" class="b-navigation__link" >Studio</a></li>
+            <li id="b-contact_514" class="b-navigation__item approach"><a href="http://weareadaptable.com/approach/" class="b-navigation__link" >View Photos</a></li>
+            <li id="b-contact_52" class="b-navigation__item blog"><a href="http://weareadaptable.com/blog/" class="b-navigation__link" >News</a></li>
+            <li id="b-contact_333" class="b-navigation__item contact"><a href="http://weareadaptable.com/contact/" class="b-navigation__link" >Contact</a></li>
+         </ul>
+      </nav>
+      <main id="main" class="site-main" role="main">
+         <header class="b-hero--full b-hero" id="b-hero__video" role="banner">
+            <div class="b-video__screen"></div>
+            <div class="b-hero__content--allcentral--video">
+               <a id="watchfull" href="https://www.youtube.com/watch?v=SYSMSDJR030" target="_blank" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen><i class="b-hero__watchFull">Watch Full Video</i></a>
+               <h1 class="b-hero__title">Digital solutions led by clarity, simplicity & honesty</h1>
+               <a class="b-video__learn" href="http://weareadaptable.com/studio/">Learn More</a>
+            </div>
+         </header>
+         <section class="b-home">
+            <div class="b-overview--home">
+               <h2 class="b-overview__headline">A digital studio crafting beautiful & engaging online experiences</h2>
+               <p class="b-overview__message">Specialising in online customer experiences & brand development, we combine digital craftsmanship with innovative thinking to deliver user-first digital solutions on a worldwide scale.</p>
+               <a class="b-overview__read" href="http://weareadaptable.com/blog/">Learn More</a>
+            </div>
+            <div class="b-home__project b-home__project_large">
+               <a class="b-project__overlay" href="http://weareadaptable.com/projects/pco-clothing/">
+                  <div class="b-wrapper--1x1">
+                     <div class="b-project__linkOverlay">
+                        <div class="b-project__info">
+                           <h3 class="b-project__title">P&#038;Co. England</h3>
+                           <p class="b-project__type">eCommerce &amp; User Experience</p>
+                        </div>
+                     </div>
+                     <img class="b-project__image" src="http://weareadaptable.com/wp-content/uploads/2014/12/pco-thumb1.jpg"/>
+                  </div>
+               </a>
+            </div>
+            <div class="b-home__project b-home__project_small">
+               <a class="b-project__overlay" href="http://weareadaptable.com/projects/dr-martens/">
+                  <div class="b-wrapper--1x1">
+                     <div class="b-project__linkOverlay">
+                        <div class="b-project__info">
+                           <h3 class="b-project__title">Dr. Martens</h3>
+                           <p class="b-project__type">eCommerce &amp; User Experience</p>
+                        </div>
+                     </div>
+                     <img class="b-project__image" src="http://weareadaptable.com/wp-content/uploads/2014/12/dr-martens.jpg"/>
+                  </div>
+               </a>
+            </div>
+            <div class="b-home__project b-home__project_small">
+               <a class="b-project__overlay" href="http://weareadaptable.com/projects/whiskey-ginger/">
+                  <div class="b-wrapper--1x1">
+                     <div class="b-project__linkOverlay">
+                        <div class="b-project__info">
+                           <h3 class="b-project__title">Whiskey Ginger</h3>
+                           <p class="b-project__type">Brand Identity</p>
+                        </div>
+                     </div>
+                     <img class="b-project__image" src="http://weareadaptable.com/wp-content/uploads/2014/12/whisky-ginger.jpg"/>
+                  </div>
+               </a>
+            </div>
+         </section>
+         <section class="b-specialisation">
+            <h3 class="b-specialisation__description">
+               Clients approach us for our user-first digital solutions, with experience across retail, hospitality,  architecture & manufacturing sectors.							
+            </h3>
+            <a class="b-specialisation__more" href="http://weareadaptable.com/case-studies/">View our work</a>
+         </section>
+         <section class="b-squareLinks">
+            <div class="b-indivPost">
+               <a class="b-indivPost__link" href="http://weareadaptable.com/studio/">
+                  <img width="959" height="663" src="http://weareadaptable.com/wp-content/uploads/2014/07/studio2.jpg" class="attachment-center-large wp-post-image" alt="studio" />							
+                  <div class="b-indivPost__content">
+                     <h3 class="b-indivPost__title">Studio</h3>
+                  </div>
+               </a>
+            </div>
+            <div class="b-indivPost">
+               <a class="b-indivPost__link" href="http://weareadaptable.com/approach/">
+                  <img width="959" height="663" src="http://weareadaptable.com/wp-content/uploads/2014/11/approach2.jpg" class="attachment-center-large wp-post-image" alt="approach" />							
+                  <div class="b-indivPost__content">
+                     <h3 class="b-indivPost__title">Approach</h3>
+                  </div>
+               </a>
+            </div>
+         </section>
+      </main>
+      <footer class="b-footer" role="contentinfo">
+         <div class="b-footer__inner">
+            <section class="b-footer__col b-footer__inight">
+               <h3 class="b-footer__title">Insights</h3>
+               <nav class="b-footer__nav">
+                  <ul id="menu-secondary-menu" class="b-footer__navList">
+                     <li id="b-contact_523" class="b-navigation__item approach"><a href="http://weareadaptable.com/approach/" class="b-navigation__link" >Approach</a></li>
+                     <li id="b-contact_521" class="b-navigation__item case studies"><a href="http://weareadaptable.com/case-studies/" class="b-navigation__link" >Case Studies</a></li>
+                     <li id="b-contact_522" class="b-navigation__item studio"><a href="http://weareadaptable.com/studio/" class="b-navigation__link" >Studio</a></li>
+                     <li id="b-contact_524" class="b-navigation__item blog"><a href="http://weareadaptable.com/blog/" class="b-navigation__link" >Blog</a></li>
+                  </ul>
+               </nav>
+            </section>
+            <section class="b-footer__col b-footer__contact">
+               <h3 class="b-footer__title">Contact</h3>
+               <div class="b-footer__contactus">
+                  <a class="b-footer__email" href="mailto:?Subject=Enquiry" target="_top">mail@weareadaptable.com
+                  </a>
+                  <a class="b-footer__telephone" href="tel:+44(0)1212881482">+44 (0) 121 288 1482</a>
+               </div>
+               <div class="b-footer__social">
+                  <div class="b-footer__socialInner">
+                     <a class="b-footer__icon fa fa-twitter b-footer__Twitter" href="http://twitter.com/weareadaptable">
+                     <span>Twitter</span>
+                     </a>
+                     <a class="b-footer__icon fa fa-instagram b-footer__Instagram" href="http://instagram.com/weareadaptable">
+                     <span>Instagram</span>
+                     </a>
+                     <a class="b-footer__icon fa fa-dribbble b-footer__Dribbble" href="http://dribbble.com/adaptable">
+                     <span>Dribbble</span>
+                     </a>
+                     <a class="b-footer__icon fa fa-linkedin b-footer__Linkedin" href="http://linkedin.com/company/adaptable-?trk=tabs_biz_home">
+                     <span>Linkedin</span>
+                     </a>
+                  </div>
+               </div>
+            </section>
+            <section class="b-footer__col b-footer__studio">
+               <h3 class="b-footer__title">Studio</h3>
+               <address class="b-footer__address">
+                  302 The Greenhouse<br />
+                  Custard Factory<br />
+                  Birmingham<br />
+                  B9 4AA			
+               </address>
+            </section>
+         </div>
+         <p class="b-footer__colophon">Copyright adaptable 2015 | All Rights Reserved</p>
+      </footer>
+      <script>
+         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+         	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+         	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+         ga('create', 'UA-42466919-1', 'auto');
+         ga('send', 'pageview');
+      </script>
+      <link rel='stylesheet' id='googleFonts-css'  href='http://fonts.googleapis.com/css?family=Montserrat%3A400%2C700&#038;ver=4.1' type='text/css' media='all' />
+      <link rel='stylesheet' id='fontAwesome-css'  href='http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?ver=4.1' type='text/css' media='all' />
+      <script type="text/javascript" src="http://weareadaptable.com/wp-content/cache/minify/000000/yygpKbDS10_MSqzQS8_PT89JTSzILNZLzs8Fi-nnZCYV62cVlqYWVeob6hkCEZSnl5uZp5dVDAA.js"></script>
+      <script type='text/javascript'>
+         /* <![CDATA[ */
+         var theme_url = "http:\/\/weareadaptable.com\/wp-content\/themes\/adaptable";
+         var wp_lastpage = "http:\/\/www.awwwards.com\/web-design-awards\/adaptable-1";
+         /* ]]> */
+      </script>
+      <script type="text/javascript" src="http://weareadaptable.com/wp-content/cache/minify/000000/M9BPTEksKElMyknVzyrWL04uyiwoKdbLzcwDAA.js"></script>
+      <div id="b-overlay"></div>
+   </body>
+</html>
